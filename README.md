@@ -96,7 +96,3 @@ Created by Tanmay Shil 🚀
 
 Let me know if you'd like a `LICENSE` file or GitHub Actions workflow setup too!
 
-## 🙋‍♂️ Author
-
-Made with ❤️ by Tanmay Shil
-GitHub: [@TanmayShil](https://github.com/TanmayShil)
