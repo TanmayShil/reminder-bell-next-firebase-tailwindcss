@@ -85,3 +85,18 @@ Open http://localhost:3000 in your browser.
 ![](public/img.png) 
 
 ---
+
+## ✨ Credits
+Created by Tanmay Shil 🚀
+
+
+### ✅ Tip:
+- Replace placeholders like `YOUR_API_KEY`, `your-username`, and screenshot links with real values.
+- You can also add a GitHub Actions CI badge, Vercel deployment link, or live demo badge if deployed.
+
+Let me know if you'd like a `LICENSE` file or GitHub Actions workflow setup too!
+
+## 🙋‍♂️ Author
+
+Made with ❤️ by Tanmay Shil
+GitHub: [@TanmayShil](https://github.com/TanmayShil)
