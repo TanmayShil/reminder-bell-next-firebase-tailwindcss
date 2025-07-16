@@ -31,3 +31,20 @@ git clone https://github.com/TanmayShil/reminder-bell-next-firebase-tailwindcss.
 cd reminder-bell
 ```
 ---
+
+## 2. Install dependencies
+```bash
+npm install
+```
+---
+
+## 3. Set up Firebase
+- Go to Firebase Console
+- Create a project and enable Cloud Messaging
+- Go to Project Settings > Cloud Messaging and:
+  - Generate a Web Push certificate key pair (VAPID key)
+  - Copy the public VAPID key
+
+---
+
+
