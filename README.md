@@ -82,6 +82,6 @@ Open http://localhost:3000 in your browser.
 
 ## 📷 Screenshots
 
-![](public/img.png) |
+![](public/img.png) 
 
 ---
