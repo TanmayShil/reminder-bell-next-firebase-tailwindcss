@@ -65,3 +65,23 @@ vapidKey: "YOUR_PUBLIC_VAPID_KEY",
 ```
 ---
 
+## ▶️ Run the App
+```bash
+npm run dev
+```
+Open http://localhost:3000 in your browser.
+
+---
+
+## 🔐 Permissions
+- The app will request notification permission.
+- Make sure to allow notifications in your browser.
+- Reminders will trigger even if the browser is minimized or in another tab.
+
+---
+
+## 📷 Screenshots
+
+![](public/img.png) |
+
+---
